@@ -1,0 +1,29 @@
+{
+  "name": "@johnmakridis/ngx-ace-editor",
+  "version": "15.0.0",
+  "private": false,
+  "author": {
+    "name": "John Makridis",
+    "url": "https://johnmakridis.github.io",
+    "github": "https://github.com/johnmakridis"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/johnmakridis/ngx-ace-editor"
+  },
+  "homepage": "https://johnmakridis.github.io",
+  "license": "MIT",
+  "keywords": [
+    "Ace Editor",
+    "Angular",
+    "ngx-ace-editor"
+  ],
+  "peerDependencies": {
+    "@angular/common": "^15.2.0",
+    "@angular/core": "^15.2.0"
+  },
+  "dependencies": {
+    "tslib": "^2.3.0"
+  },
+  "sideEffects": false
+}
