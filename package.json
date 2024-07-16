@@ -23,6 +23,7 @@
     "start": "ng serve",
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
+    "lint": "tslint -p tsconfig.json",
     "prepublishOnly": "npm run lint",
     "preversion": "npm run lint",
     "version": "git add .",
